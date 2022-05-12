@@ -1,13 +1,17 @@
 # University Graduations
+
 Degree in Sociology from Saarland University (Diplom-Soziologe, M.A. equivalent), PhD in Information Science from Saarland University.
 
 # Main Research Areas
+
 Electronic publishing, science communication & science infrastructure, scientific publishing, science research, scientometrics, social media, media & information journalism, science journalism.
 
 # CV
+
 Since 2001 working for the [Saarland University and State Library](https://www.sulb.uni-saarland.de) as project manager and Open Access expert and since 2011 freelancing for [scidecode science consulting](https://scidecode.com). For a more detailed CV please visit my [linkedIn](https://de.linkedin.com/in/ulrichherb) or [ORCID profile](https://orcid.org/0000-0002-3500-3119).
 
 # Projects
+
 Since 2001 project manager of a number of third-party funded projects (mainly funded by the German Research Foundation DFG) at the Saarland University and State Library (SULB), among others:
 
 - Virtual Library Psychology
@@ -21,6 +25,7 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 # Memberships in Committees and Associations
 
 ## Current Memberships in Committees and Associations
+
 - Working Group Electronic Publishing of the German Initiative for Networked Information (Deutschen Initiative für Netzwerkinformation DINI e.V.)
 - Section “Cultural Theory and Cultural Research” of the Austrian Society for Sociology ÖGS
 - Association of Higher Education of Information Science in the German-speaking countries (board member since 03/2017)
@@ -29,6 +34,7 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 - Fellow of the innoSci Future Lab of the German Stifterverband
 
 ## Former Memberships in Committees and Associations
+
 - Open Science Working Group of the Open Knowledge Foundation OKFN
 - Sounding Board “Communicating Open Science” of the Max-Planck-Society (2013)
 - Open Access Working Group of the Leibniz Association
@@ -36,6 +42,7 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 - Society for Science and Technology Research /Gesellschaft für Wissenschafts- und Technikforschung e.V. (GWTF)
 
 # Publications, Reviewer activities, Memberships in Editorial Boards
+
 - Ongoing publications of a scientific and journalistic character and lectures at scientific congresses and conferences.
 - Member of the editorial boards of the journals Information, Wissenschaft & Praxis und Young Information Scientist
 - Reviewer for various scientific journals, e.g. Scientometrics,  Information – Open Access Information Science Journal, First Monday, Zeitschrift für Hochschulentwicklung, Mitteilungen der Vereinigung Österreichischer Bibliothekarinnen & Bibliothekare, Technikfolgenabschätzung – Theorie und Praxis (TATuP), Young Information Scientist and Information, Wissenschaft & Praxis.
@@ -43,6 +50,7 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 
 
 # Lectureships
+
 - Lectureship at the Hochschule der Medien (HdM) in Stuttgart 2012, 2013, 2016, 20217
 - Annual guest lectures at the University of Applied Sciences Chur (CH) at the Department of Information Science since 2015
 - Lectureship at Saarland University in the winter semester 2011/12 and summer semester 2012
