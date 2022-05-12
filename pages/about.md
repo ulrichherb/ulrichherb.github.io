@@ -1,16 +1,18 @@
-# University Graduations
+# About me
+
+## University graduations
 
 Degree in Sociology from Saarland University (Diplom-Soziologe, M.A. equivalent), PhD in Information Science from Saarland University.
 
-# Main Research Areas
+## Main Research Areas
 
 Electronic publishing, science communication & science infrastructure, scientific publishing, science research, scientometrics, social media, media & information journalism, science journalism.
 
-# CV
+## CV
 
 Since 2001 working for the [Saarland University and State Library](https://www.sulb.uni-saarland.de) as project manager and Open Access expert and since 2011 freelancing for [scidecode science consulting](https://scidecode.com). For a more detailed CV please visit my [linkedIn](https://de.linkedin.com/in/ulrichherb) or [ORCID profile](https://orcid.org/0000-0002-3500-3119).
 
-# Projects
+## Projects
 
 Since 2001 project manager of a number of third-party funded projects (mainly funded by the German Research Foundation DFG) at the Saarland University and State Library (SULB), among others:
 
@@ -22,9 +24,9 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 - Open Access Publishing
 - Summa cum Fraude
 
-# Memberships in Committees and Associations
+## Memberships in Committees and Associations
 
-## Current Memberships in Committees and Associations
+### Current Memberships in Committees and Associations
 
 - Working Group Electronic Publishing of the German Initiative for Networked Information (Deutschen Initiative für Netzwerkinformation DINI e.V.)
 - Section “Cultural Theory and Cultural Research” of the Austrian Society for Sociology ÖGS
@@ -33,7 +35,7 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 - Advisory Board of the research project “Open Access in Vocational Education and Training Research” of the Federal Institute for Vocational Education and Training BIBB.
 - Fellow of the innoSci Future Lab of the German Stifterverband
 
-## Former Memberships in Committees and Associations
+### Former Memberships in Committees and Associations
 
 - Open Science Working Group of the Open Knowledge Foundation OKFN
 - Sounding Board “Communicating Open Science” of the Max-Planck-Society (2013)
@@ -41,7 +43,7 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 - Expert group “Copyright for the Information Society” of the Google Collaboratory
 - Society for Science and Technology Research /Gesellschaft für Wissenschafts- und Technikforschung e.V. (GWTF)
 
-# Publications, Reviewer activities, Memberships in Editorial Boards
+## Publications, Reviewer activities, Memberships in Editorial Boards
 
 - Ongoing publications of a scientific and journalistic character and lectures at scientific congresses and conferences.
 - Member of the editorial boards of the journals Information, Wissenschaft & Praxis und Young Information Scientist
@@ -49,7 +51,7 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 - Reviewer of applications for funding from the German Research Foundation (Deutsche Forschungsgemeinschaft DFG), the Leibniz Association (Leibniz Competition), the Swiss National Science Foundation (SNSF) and the Tyrolean Science Funding Programme.
 
 
-# Lectureships
+## Lectureships
 
 - Lectureship at the Hochschule der Medien (HdM) in Stuttgart 2012, 2013, 2016, 20217
 - Annual guest lectures at the University of Applied Sciences Chur (CH) at the Department of Information Science since 2015
