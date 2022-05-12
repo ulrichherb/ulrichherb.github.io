@@ -35,13 +35,14 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 - Society for Science and Technology Research /Gesellschaft für Wissenschafts- und Technikforschung e.V. (GWTF)
 
 # Publications, Reviewer activities, Memberships in Editorial Boards
-Ongoing publications of a scientific and journalistic character and lectures at scientific congresses and conferences.
-
-Member of the editorial board of the journals Information, Wissenschaft & Praxis und Young Information Scientist, Reviewer for various scientific journals (e.g. Scientometrics,  Information – Open Access Information Science Journal, First Monday, Zeitschrift für Hochschulentwicklung, Mitteilungen der Vereinigung Österreichischer Bibliothekarinnen & Bibliothekare, Technikfolgenabschätzung – Theorie und Praxis“ (TATuP), Young Information Scientist and Information, Wissenschaft & Praxis). Reviewer of applications for funding from the German Research Foundation (Deutsche Forschungsgemeinschaft DFG), the Leibniz Association (Leibniz Competition) and the Tyrolean Science Funding Programme.
+- Ongoing publications of a scientific and journalistic character and lectures at scientific congresses and conferences.
+- Member of the editorial boards of the journals Information, Wissenschaft & Praxis und Young Information Scientist
+- Reviewer for various scientific journals, e.g. Scientometrics,  Information – Open Access Information Science Journal, First Monday, Zeitschrift für Hochschulentwicklung, Mitteilungen der Vereinigung Österreichischer Bibliothekarinnen & Bibliothekare, Technikfolgenabschätzung – Theorie und Praxis (TATuP), Young Information Scientist and Information, Wissenschaft & Praxis.
+- Reviewer of applications for funding from the German Research Foundation (Deutsche Forschungsgemeinschaft DFG), the Leibniz Association (Leibniz Competition), the Swiss National Science Foundation (SNSF) and the Tyrolean Science Funding Programme.
 
 
 # Lectureships
-Lectureship at the Hochschule der Medien (HdM) in Stuttgart 2012, 2013, 2016, 20217
-Annual guest lectures at the University of Applied Sciences Chur (CH) at the Department of Information Science since 2015
-Lectureship at Saarland University in the winter semester 2011/12 and summer semester 2012
-Lectureship at the University of Applied Sciences Chur (CH) at the Department of Information Science in 2011
+- Lectureship at the Hochschule der Medien (HdM) in Stuttgart 2012, 2013, 2016, 20217
+- Annual guest lectures at the University of Applied Sciences Chur (CH) at the Department of Information Science since 2015
+- Lectureship at Saarland University in the winter semester 2011/12 and summer semester 2012
+- Lectureship at the University of Applied Sciences Chur (CH) at the Department of Information Science in 2011
