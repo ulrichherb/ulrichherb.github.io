@@ -19,6 +19,7 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 - Summa cum Fraude
 
 # Memberships in Committees and Associations
+
 ## Current Memberships in Committees and Associations
 - Working Group Electronic Publishing of the German Initiative for Networked Information (Deutschen Initiative für Netzwerkinformation DINI e.V.)
 - Section “Cultural Theory and Cultural Research” of the Austrian Society for Sociology ÖGS
