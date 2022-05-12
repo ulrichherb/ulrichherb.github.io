@@ -1,5 +1,6 @@
-Here you can say lots of fun things about your site.
+This is the website of Ulrich Herb, I work for Saarland University, scidecode science consulting and as a freelancer. 
 
-Maybe say a some things about yourself.
+You can find more about me at XXX, in my blog I discuss issues around scientific publishing and open science. 
 
-Or maybe what you plan to blog about.
+If you are interested in an exchange of ideas, cooperation or services that I offer, please do not hesitate to contact me.
+
