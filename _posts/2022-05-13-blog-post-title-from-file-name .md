@@ -19,7 +19,7 @@ Nehmen wir nun aber an, DEAL erreichte sein Ziel und die Abmachungen mit Springe
 
 # Eine fremde Welt
 
-![kommunizierende Röhren](/_images/Hydrostatisches_Paradoxon_Kommunizierende_Roehren_mit_Kraeften.png)
+![kommunizierende Röhren](../../../_images/Hydrostatisches_Paradoxon_Kommunizierende_Roehren_mit_Kraeften.png)
 
 *Bd, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hydrostatisches_Paradoxon_Kommunizierende_Roehren_mit_Kraeften.png)*
 
