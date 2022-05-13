@@ -10,7 +10,7 @@ Electronic publishing, science communication & science infrastructure, scientifi
 
 ## CV
 
-Since 2001 working for the [Saarland University and State Library](https://www.sulb.uni-saarland.de) as project manager and Open Access expert and since 2011 freelancing for [scidecode science consulting](https://scidecode.com). For a more detailed CV please visit my [linkedIn](https://de.linkedin.com/in/ulrichherb) or [ORCID profile](https://orcid.org/0000-0002-3500-3119).
+Since 2001 working for the [Saarland University and State Library](https://www.sulb.uni-saarland.de) as project manager and Open Access expert and since 2011 freelancing for [scidecode science consulting](https://scidecode.com). For a more detailed CV please visit my [LinkedIn](https://de.linkedin.com/in/ulrichherb) or [ORCID profile](https://orcid.org/0000-0002-3500-3119).
 
 ## Projects
 
