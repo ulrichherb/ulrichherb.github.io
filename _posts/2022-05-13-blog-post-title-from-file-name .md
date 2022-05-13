@@ -30,7 +30,7 @@ Zu guter Letzt ist eine Deckelung der APC-Ausgaben schwer zu vermitteln, denn we
 
 # Aufwände
 
-![kommunizierende Röhren](Hydrostatisches_Paradoxon_Kommunizierende_Roehren_mit_Kraeften.png)
+![kommunizierende Röhren](Hydrostatisches_Paradoxon_Kommunizierende_Roehren_mit_Kraeften.jpg)
 
 *Bd, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hydrostatisches_Paradoxon_Kommunizierende_Roehren_mit_Kraeften.png)*
 
