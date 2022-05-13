@@ -19,10 +19,6 @@ Nehmen wir nun aber an, DEAL erreichte sein Ziel und die Abmachungen mit Springe
 
 # Eine fremde Welt
 
-![kommunizierende Röhren](/_images/Hydrostatisches_Paradoxon_Kommunizierende_Roehren_mit_Kraeften.png)
-
-*Bd, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hydrostatisches_Paradoxon_Kommunizierende_Roehren_mit_Kraeften.png)*
-
 Anders als Subskription, Transformation und RAP/ DEAL, ist die APC-Verwaltung Bibliotheken strukturell fremd: Es handelt sich um eine individuelle Kauftransaktion, vergleichbar dem Erwerb eines Buches durch eine Wissenschaftlerin/ einen Wissenschaftler für die Fachbereichsbibliothek. Oder wie [Harald Gerlach](https://www.ulb.tu-darmstadt.de/die_bibliothek/ueberuns/organisation/kontakt_details_3459.en.jsp) von der Universitätsbibliothek Darmstadt es anlässlich einer Online-Veranstaltung zu [Informationsbudgets](https://inetbib.de/listenarchiv/msg69884.html) formulierte: Prinzipiell kann man eine mit der Zahlung einer APC verbundene Publikation mit einem individuellen Zeitschriftenabonnement vergleichen.
 
 Überdies ist das Handling von APCs meiner Meinung nach diffizil mit einem klassischen Bibliotheksbudget vereinbar, unter anderem da die Kosten in ihrem gesamten Volumen, anders als die erwarteten Ausgaben für den Medienbedarf der Fakultät X im Jahr Y, nicht im Voraus budgetierbar sind.
@@ -33,6 +29,10 @@ Zu guter Letzt ist eine Deckelung der APC-Ausgaben schwer zu vermitteln, denn we
 ) - und der nicht zwangsläufig, aber eben auch nicht selten, im Open Access zahlungspflichtig ist.
 
 # Aufwände
+
+![kommunizierende Röhren](/_images/Hydrostatisches_Paradoxon_Kommunizierende_Roehren_mit_Kraeften.png)
+
+*Bd, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hydrostatisches_Paradoxon_Kommunizierende_Roehren_mit_Kraeften.png)*
 
 Die Annahme, Erwerbungs- und Open-Access-Kosten einer Universität verhielten sich wie kommunizierende Röhren (auch für diese Metapher danke ich Harald Gerlach), scheint diskussionswürdig: Funktioniert ein Bibliotheksetat tatsächlich so, dass ein Zuwachs an Open Access (und damit verbundene Kosten) wie von Geisterhand Reduzierungen an anderer Stelle (Subskription) zur Folge hat, sodass Erwerbungs- und APC-Kosten in einen ausbalancierten Zustand geraten?
 
