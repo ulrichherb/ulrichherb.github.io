@@ -30,7 +30,7 @@ Zu guter Letzt ist eine Deckelung der APC-Ausgaben schwer zu vermitteln, denn we
 
 # Aufwände
 
-![kommunizierende Röhren](/docs/assets/images/kommunizierende_roehren.png){: style="float: left"} 
+![kommunizierende Röhren](/docs/assets/images/kommunizierende_roehren.png){: style="float: right"} 
 
 Die Annahme, Erwerbungs- und Open-Access-Kosten einer Universität verhielten sich wie kommunizierende Röhren (auch für diese Metapher danke ich Harald Gerlach), scheint diskussionswürdig: Funktioniert ein Bibliotheksetat tatsächlich so, dass ein Zuwachs an Open Access (und damit verbundene Kosten) wie von Geisterhand Reduzierungen an anderer Stelle (Subskription) zur Folge hat, sodass Erwerbungs- und APC-Kosten in einen ausbalancierten Zustand geraten?
 
