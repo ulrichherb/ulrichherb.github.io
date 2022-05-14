@@ -1,7 +1,6 @@
 
 ## APC-Verwaltung in Bibliotheken
 
-
 Am 31.05. halte ich einen Vortrag beim diesjährigen Bibliothekskongress, und zwar in der [öffentlichen Sitzung der dbv-Kommission Erwerbung und Bestandsentwicklung](https://bid2022.abstractserver.com/program/#/details/sessions/63). Thema der Session ist "APC-Verwaltung in Bibliotheken", also das Management der für Open Access Publikationen anfallenden Publikationsgebühren (Article Processing Charges APCs). 
 
 Die Ehre, die Keynote halten zu dürfen, gibt mir die Freiheit, mich weniger mit Details wie technischer Umsetzung oder administrativen Abläufen auseinanderzusetzen und mich stärker mit dem Stilbildenden dieser - im Vergleich zu Erwerbung und Bestandsaufbau – immer noch neuen Aufgabe für Bibliotheken auseinanderzusetzen. Meine Sicht auf APCs und alles, was mit ihnen inner- und außerhalb von Bibliotheken zusammenhängt, ist stark von der  Open-Access-Perspektive geprägt, auch wenn ich kurze Zeit die Erwerbungsleitung der Saarländischen Universitäts- und Landesbibliothek innehatte.
@@ -31,7 +30,7 @@ Zu guter Letzt ist eine Deckelung der APC-Ausgaben schwer zu vermitteln, denn we
 
 # Aufwände
 
-![kommunizierende Röhren](/docs/assets/images/kommunizierende_roehren.png) 
+![kommunizierende Röhren](/docs/assets/images/kommunizierende_roehren.png){: style="float: left"} 
 
 Die Annahme, Erwerbungs- und Open-Access-Kosten einer Universität verhielten sich wie kommunizierende Röhren (auch für diese Metapher danke ich Harald Gerlach), scheint diskussionswürdig: Funktioniert ein Bibliotheksetat tatsächlich so, dass ein Zuwachs an Open Access (und damit verbundene Kosten) wie von Geisterhand Reduzierungen an anderer Stelle (Subskription) zur Folge hat, sodass Erwerbungs- und APC-Kosten in einen ausbalancierten Zustand geraten?
 
