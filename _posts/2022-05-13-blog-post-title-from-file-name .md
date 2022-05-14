@@ -30,9 +30,8 @@ Zu guter Letzt ist eine Deckelung der APC-Ausgaben schwer zu vermitteln, denn we
 
 # Aufwände
 
-![kommunizierende Röhren](/docs/assets/images/Hydrostatisches_Paradoxon_Kommunizierende_Roehren_mit_Kraeften.jpg) 
+![kommunizierende Röhren](/docs/assets/images/kommunizierende_roehren.png) 
 
-*Bd, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hydrostatisches_Paradoxon_Kommunizierende_Roehren_mit_Kraeften.png)*
 
 Die Annahme, Erwerbungs- und Open-Access-Kosten einer Universität verhielten sich wie kommunizierende Röhren (auch für diese Metapher danke ich Harald Gerlach), scheint diskussionswürdig: Funktioniert ein Bibliotheksetat tatsächlich so, dass ein Zuwachs an Open Access (und damit verbundene Kosten) wie von Geisterhand Reduzierungen an anderer Stelle (Subskription) zur Folge hat, sodass Erwerbungs- und APC-Kosten in einen ausbalancierten Zustand geraten?
 

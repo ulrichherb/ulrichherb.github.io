@@ -1,5 +1,6 @@
 # About me
 
+!Ulrich Herb](/docs/assets/images/Ulrich_Herb.jpg) 
 ## University graduations
 
 Degree in Sociology from Saarland University (Diplom-Soziologe, M.A. equivalent), PhD in Information Science from Saarland University.
