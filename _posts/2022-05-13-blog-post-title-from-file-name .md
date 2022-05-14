@@ -30,10 +30,7 @@ Zu guter Letzt ist eine Deckelung der APC-Ausgaben schwer zu vermitteln, denn we
 
 # Aufwände
 
-![kommunizierende Röhren](/docs/assets/images/kommunizierende_roehren.png) 
-
-
-Die Annahme, Erwerbungs- und Open-Access-Kosten einer Universität verhielten sich wie kommunizierende Röhren (auch für diese Metapher danke ich Harald Gerlach), scheint diskussionswürdig: Funktioniert ein Bibliotheksetat tatsächlich so, dass ein Zuwachs an Open Access (und damit verbundene Kosten) wie von Geisterhand Reduzierungen an anderer Stelle (Subskription) zur Folge hat, sodass Erwerbungs- und APC-Kosten in einen ausbalancierten Zustand geraten?
+![kommunizierende Röhren](/docs/assets/images/kommunizierende_roehren.png) Die Annahme, Erwerbungs- und Open-Access-Kosten einer Universität verhielten sich wie kommunizierende Röhren (auch für diese Metapher danke ich Harald Gerlach), scheint diskussionswürdig: Funktioniert ein Bibliotheksetat tatsächlich so, dass ein Zuwachs an Open Access (und damit verbundene Kosten) wie von Geisterhand Reduzierungen an anderer Stelle (Subskription) zur Folge hat, sodass Erwerbungs- und APC-Kosten in einen ausbalancierten Zustand geraten?
 
 Neben diesen reinen Beschaffungskosten muss man natürlich die Arbeitsaufwände bedenken, z.B. selbst bei zentral verwalteten Fonds Vorgänge wie Prüfung der Zugehörigkeit der Autorin/ des Autors, der Erstattungsfähigkeit, gegebenenfalls das Abklären von (Ko-)Finanzierungen, Steuerfragen, berücksichtigter Fundingvorgaben, korrekter Lizenzierung, das Blockieren/ Reservieren von Mitteln, das Monitoring und die Berichterstattung an die Deutsche Forschungsgemeinschaft (DFG), OpenAPC, die Universitätsleitung und das zuständige Ministerium - selbstredend in unterschiedlichen Datenformaten. Verglichen mit klassischen Bibliotheksworkflows verlangt dies je APC eine Menge Micromanagement.
 
