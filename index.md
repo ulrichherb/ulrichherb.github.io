@@ -3,4 +3,8 @@ This is the website of Ulrich Herb, I work for Saarland University, scidecode sc
 You can find more about me [here](/pages/about.md), in my blog I discuss issues around scientific publishing and open science. 
 
 If you are interested in an exchange of ideas, cooperation or services that I offer, please do not hesitate to contact me.
+  
+  
+  
+---
 
