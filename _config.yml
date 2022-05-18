@@ -31,6 +31,7 @@ plugins:
   - jekyll-sitemap
   - liquid_reading_time
   - jekyll-minifier
+  - jekyll-seo-tag
 
 titles_from_headings:
   strip_title: true
