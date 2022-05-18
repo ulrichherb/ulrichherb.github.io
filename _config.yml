@@ -30,6 +30,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - liquid_reading_time
+  - jekyll-minifier
 
 titles_from_headings:
   strip_title: true
