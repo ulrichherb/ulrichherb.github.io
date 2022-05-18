@@ -21,7 +21,7 @@ Nehmen wir nun aber an, DEAL erreichte sein Ziel und die Abmachungen mit Springe
 
 Anders als Subskription, Transformation und RAP/ DEAL, ist die APC-Verwaltung Bibliotheken strukturell fremd: Es handelt sich um eine individuelle Kauftransaktion, vergleichbar dem Erwerb eines Buches durch eine Wissenschaftlerin/ einen Wissenschaftler für die Fachbereichsbibliothek. Oder wie [Harald Gerlach](https://www.ulb.tu-darmstadt.de/die_bibliothek/ueberuns/organisation/kontakt_details_3459.en.jsp) von der Universitätsbibliothek Darmstadt es anlässlich einer Online-Veranstaltung zu [Informationsbudgets](https://inetbib.de/listenarchiv/msg69884.html) formulierte: Prinzipiell kann man eine mit der Zahlung einer APC verbundene Publikation mit einem individuellen Zeitschriftenabonnement vergleichen.
 
-Überdies ist das Handling von APCs meiner Meinung nach diffizil mit einem klassischen Bibliotheksbudget vereinbar, unter anderem da die Kosten in ihrem gesamten Volumen, anders als die erwarteten Ausgaben für den Medienbedarf der Fakultät X im Jahr Y, nicht im Voraus budgetierbar sind.
+Überdies ist das Handling von APCs meiner Meinung nach diffizil mit einem klassischen Bibliotheksbudget vereinbar, unter anderem, da die Kosten in ihrem gesamten Volumen, anders als die erwarteten Ausgaben für den Medienbedarf der Fakultät X im Jahr Y, nicht im Voraus budgetierbar sind.
 
 Zudem werden bei Open Access Publikationen Kaufentscheidungen nicht auf Fachbereichs-/Fakultätsebene getroffen, sondern höchst individuell und granular.
 
