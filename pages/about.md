@@ -53,9 +53,9 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 - Reviewer of applications for funding from the German Research Foundation (Deutsche Forschungsgemeinschaft DFG), the Leibniz Association (Leibniz Competition), swissuniversities and the Tyrolean Science Funding Programme.
 
 
-## Lectureships
+## Teaching assignments
 
-- Lectureship at the Hochschule der Medien (HdM) in Stuttgart 2012, 2013, 2016, 20217
+- Teaching assignment at the Hochschule der Medien (HdM) in Stuttgart 2012, 2013, 2016, 20217
 - Annual guest lectures at the University of Applied Sciences Chur (CH) at the Department of Information Science since 2015
-- Lectureship at Saarland University in the winter semester 2011/12 and summer semester 2012
-- Lectureship at the University of Applied Sciences Chur (CH) at the Department of Information Science in 2011
+- Teaching assignment at Saarland University in the winter semester 2011/12 and summer semester 2012
+- Teaching assignment at the University of Applied Sciences Graubünden, Chur (Switzerland) at the Department of Information Science in 2011
