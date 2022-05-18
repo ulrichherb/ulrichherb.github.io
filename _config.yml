@@ -29,7 +29,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - liquid_reading_time
+  - jekyll-algolia
   - jekyll-minifier
   - jekyll-seo-tag
 
