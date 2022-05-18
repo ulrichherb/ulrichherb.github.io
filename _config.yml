@@ -29,6 +29,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - liquid_reading_time
 
 titles_from_headings:
   strip_title: true
