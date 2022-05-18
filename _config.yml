@@ -32,6 +32,7 @@ plugins:
   - jekyll-algolia
   - jekyll-minifier
   - jekyll-seo-tag
+  - jekyll-toc
 
 titles_from_headings:
   strip_title: true
