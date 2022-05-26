@@ -1,8 +1,8 @@
 ## Update on the scidecode study on Persistent Identifiers (PIDs)
 
-![update on the scidecode study on persistent identifiers pids](/docs/assets/images/update on the scidecode study on persistent identifiers pids.png)*---Taken from [orcid.org](https://info.orcid.org/orcid-and-the-uk-national-pid-consortium/)     
+![update on the scidecode study on persistent identifiers pids](/docs/assets/images/update on the scidecode study on persistent identifiers pids.png){: style="float: right"}*Taken from [orcid.org](https://info.orcid.org/orcid-and-the-uk-national-pid-consortium/)     
 published there under a   
-[CC Zero licence](http://creativecommons.org/publicdomain/zero/1.0/)---*{: style="float: right"}   
+[CC Zero licence](http://creativecommons.org/publicdomain/zero/1.0/)*   
  
 Here is an update on a study we are conducting at [scidecode science consulting](https://scidecode.com).
 
