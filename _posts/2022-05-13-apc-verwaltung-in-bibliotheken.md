@@ -13,10 +13,12 @@ Sollten Sie dieses Posting also via Twitter, LinkedIn oder an anderer Stelle auf
 
 Transformative Verträge und DEAL stellen das stärkste verbindende Element zwischen Erwerbung und Open Access dar. Die Eignung der Transformationsverträge, Open Access quantitativ zu befördern, ist [nicht unumstritten](https://deltathink.com/news-views-transformative-journals/), nicht umsonst legt der [Plan S strenge Kriterien](https://www.coalition-s.org/transformative-journals-faq/) für transformative Journale an, die als compliant betrachtet werden wollen. Auch in Bibliotheken gelten, zumindest meiner Meinung nach, Transformationsverträge als sperrig: Zu verschieden die Vertragsdetails und Open Access Policies der Verlage, zu unterschiedlich die Workflows und zu unklar, inwiefern Wissenschaftlerinnen und Wissenschaftler dieses Konzept und seine uneinheitliche Umsetzung verstehen. Gleiches gilt für DEAL: Bibliotheken und die MPDL Services GmbH scheinen mitunter wegen Nachzahlungen über Kreuz zu liegen, dazu haben Bibliotheken Befürchtungen vor im Vergleich zum Subskriptionsmodell noch stärker steigenden Kosten. Dazu beschäftigt DEAL nicht nur die Erwerbung, sondern auch die Open-Access-Vertreterinnen und -Vertreter etwa mit aufwändigen Affiliationsprüfungen oder (Ko-)Finanzierungsabstimmungen. Weitere Kritikpunkte an derartigen Abmachungen werden [in Brianna Selmans "Transformative" Agreement Bingo zugespitzt aufbereitet](https://docs.google.com/document/d/1IUTJT6i8sTZqwAQ5ifdMVTz9T1tNiFOKaRJnEG4dcJk/edit).
 
-*Beginn: Update 29.05.2022* 
+*Beginn: Update 29.05.2022*
+
 Mein Kollege [Pablo de Castro](https://twitter.com/pcastromartin) (University of Strathclyde, Glasgow) fasste weitere kritische Eigenschaften von Transformationsverträgen und Read-And-Publish-Abmachungen (hier RnP) in einer [Präsentation](https://twitter.com/pcastromartin/status/1530244458331136000/photo/1) treffend zusammen. 
 ![Pablo de Castro Read and Publish](/docs/assets/images/Pablo_de_Castro_Read_and-Publish.jpg){: style="float: right"}
 Besonders hervorheben möchte ich seine Feststellung, dass Open Access Berater/innen und Beauftragte durch Read and Publish und Transformation zu Buchhalterinnen und Buchhaltern mutieren - was zu Lasten Open Access förderlicherer Aktivitäten wir Beratung oder (Infra)strukturbildung geht.
+ 
 *Ende: Update 29.05.2022* 
 
 Trotz aller Unbeliebtheit bei Bibliotheken (sowohl in der Erwerbung als auch im Open Access) sollte man jedoch nicht vergessen, dass Bibliotheken von Transformationsverträgen und DEAL auch profitieren: Beide folgen primär dem Prinzip konsortialer Subskription und sind ohne Bibliotheken nicht denkbar, sie stärken also deren Existenzberechtigung.
