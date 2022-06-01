@@ -9,6 +9,9 @@ Ich will an dieser Stelle nun ein paar vorläufige Ideen zur APC-Verwaltung in B
 
 Sollten Sie dieses Posting also via Twitter, LinkedIn oder an anderer Stelle aufgreifen, lassen Sie mich dies bitte wissen.
 
+*Update 01.06.2022:* Die Keynote ist gehalten, die Präsentation dazu findet sich unter [hier](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/32993), mehr oder minder als Kondensat des folgenden Textes.
+
+
 # Bibliotheken und Transformation: eine Hassliebe
 
 Transformative Verträge und DEAL stellen das stärkste verbindende Element zwischen Erwerbung und Open Access dar. Die Eignung der Transformationsverträge, Open Access quantitativ zu befördern, ist [nicht unumstritten](https://deltathink.com/news-views-transformative-journals/), nicht umsonst legt der [Plan S strenge Kriterien](https://www.coalition-s.org/transformative-journals-faq/) für transformative Journale an, die als compliant betrachtet werden wollen. Auch in Bibliotheken gelten, zumindest meiner Meinung nach, Transformationsverträge als sperrig: Zu verschieden die Vertragsdetails und Open Access Policies der Verlage, zu unterschiedlich die Workflows und zu unklar, inwiefern Wissenschaftlerinnen und Wissenschaftler dieses Konzept und seine uneinheitliche Umsetzung verstehen. Gleiches gilt für DEAL: Bibliotheken und die MPDL Services GmbH scheinen mitunter wegen Nachzahlungen über Kreuz zu liegen, dazu haben Bibliotheken Befürchtungen vor im Vergleich zum Subskriptionsmodell noch stärker steigenden Kosten. Dazu beschäftigt DEAL nicht nur die Erwerbung, sondern auch die Open-Access-Vertreterinnen und -Vertreter etwa mit aufwändigen Affiliationsprüfungen oder (Ko-)Finanzierungsabstimmungen. Weitere Kritikpunkte an derartigen Abmachungen werden [in Brianna Selmans "Transformative" Agreement Bingo zugespitzt aufbereitet](https://docs.google.com/document/d/1IUTJT6i8sTZqwAQ5ifdMVTz9T1tNiFOKaRJnEG4dcJk/edit).
