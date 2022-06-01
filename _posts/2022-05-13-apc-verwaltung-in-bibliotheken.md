@@ -9,7 +9,7 @@ Ich will an dieser Stelle nun ein paar vorläufige Ideen zur APC-Verwaltung in B
 
 Sollten Sie dieses Posting also via Twitter, LinkedIn oder an anderer Stelle aufgreifen, lassen Sie mich dies bitte wissen.
 
-*Update 01.06.2022:* Die Keynote ist gehalten, die Präsentation dazu findet sich unter [hier](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/32993), mehr oder minder als Kondensat des folgenden Textes.
+*Update 01.06.2022:* Die Keynote ist gehalten, die Präsentation dazu findet sich [online](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/32993), mehr oder minder als Kondensat des folgenden Textes.
 
 
 # Bibliotheken und Transformation: eine Hassliebe
