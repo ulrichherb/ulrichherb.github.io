@@ -19,7 +19,7 @@ Transformative Verträge und DEAL stellen das stärkste verbindende Element zwis
 *Beginn: Update 29.05.2022*
 
 Mein Kollege [Pablo de Castro](https://twitter.com/pcastromartin) (University of Strathclyde, Glasgow) fasste weitere kritische Eigenschaften von Transformationsverträgen und Read-And-Publish-Abmachungen (hier RnP) in einer [Präsentation](https://twitter.com/pcastromartin/status/1530244458331136000/photo/1) treffend zusammen. 
-![Pablo de Castro Read and Publish](/docs/assets/images/Pablo_de_Castro_Read_and-Publish.jpg){: style="float: right"}
+![Pablo de Castro Read and Publish](/assets/images/Pablo_de_Castro_Read_and-Publish.jpg){: style="float: right"}
 Besonders hervorheben möchte ich seine Feststellung, dass Open Access Berater/innen und Beauftragte durch Read and Publish und Transformation zu Buchhalterinnen und Buchhaltern mutieren - was zu Lasten Open Access förderlicherer Aktivitäten wir Beratung oder (Infra)strukturbildung geht.
  
 *Ende: Update 29.05.2022* 
@@ -41,7 +41,7 @@ Zu guter Letzt ist eine Deckelung der APC-Ausgaben schwer zu vermitteln, denn we
 
 # Aufwände
 
-![kommunizierende Röhren](/docs/assets/images/kommunizierende_roehren.png){: style="float: right"} 
+![kommunizierende Röhren](/assets/images/kommunizierende_roehren.png){: style="float: right"} 
 
 Die Annahme, Erwerbungs- und Open-Access-Kosten einer Universität verhielten sich wie kommunizierende Röhren (auch für diese Metapher danke ich Harald Gerlach), scheint diskussionswürdig: Funktioniert ein Bibliotheksetat tatsächlich so, dass ein Zuwachs an Open Access (und damit verbundene Kosten) wie von Geisterhand Reduzierungen an anderer Stelle (Subskription) zur Folge hat, sodass Erwerbungs- und APC-Kosten in einen ausbalancierten Zustand geraten?
 
