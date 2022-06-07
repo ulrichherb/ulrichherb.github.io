@@ -43,11 +43,8 @@ linkedin_username: "ulrichherb"
 
 
 # Build settings
-<<<<<<< HEAD
 theme: minima
-=======
-theme: jekyll-theme-tactile
->>>>>>> parent of f534fe5 (Set theme jekyll-theme-minimal)
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
