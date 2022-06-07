@@ -1,3 +1,4 @@
+
 ## APC-Verwaltung in Bibliotheken
 
 Am 31.05. halte ich einen Vortrag beim diesjährigen Bibliothekskongress, und zwar in der [öffentlichen Sitzung der dbv-Kommission Erwerbung und Bestandsentwicklung](https://bid2022.abstractserver.com/program/#/details/sessions/63). Thema der Session ist "APC-Verwaltung in Bibliotheken", also das Management der für Open Access Publikationen anfallenden Publikationsgebühren (Article Processing Charges APCs). 
