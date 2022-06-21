@@ -18,16 +18,14 @@ layout: home
 ## Scientific publications
 
 Ulrich Herb (2021): Review „Publikationsberatung an Universitäten. Ein Praxisleitfaden zum Aufbau publikationsunterstützender Services“ von Karin Lackner, Lisa Schilhan, &amp; Christian Kaier (Eds.). *Information. Wissenschaft &amp; Praxis*, 72(4), 246–247.  
-[DOI:10.1515/iwp-2021-2162](10.1515/iwp-2021-2162)  
-<https://doi.org/10.1515/iwp-2021-2162>  
+[DOI:10.1515/iwp-2021-2162](https://doi.org/10.1515/iwp-2021-2162)  
 Open Access Version:  
 <https://scidecode.com/en/2021/07/08/rezension-publikationsberatung-an-universitaeten-ein-praxisleitfaden-zum-aufbau-publikationsunterstuetzender-services/>
 
 Ulrich Herb &amp; Uwe Geith (2020). Kriterien der qualitativen Bewertung wissenschaftlicher Publikationen. *Information. Wissenschaft &amp; Praxis*, 71(2–3), 1–9.   
 [DOI:10.1515/iwp-2020-2074](https://doi.org/10.1515/iwp-2020-2074)  
-<https://www.degruyter.com/view/journals/iwp/71/2-3/article-p77.xml>
 
-Gernot Deinzer &amp; Ulrich Herb (2020). Scheinverlage in der wissenschaftlichen Kommunikation **–** Verbreitung von *Predatory Publishing* und Lösungsansätze. *Zeitschrift für Bibliothekswesen und Bibliographie*, 67(1), 25-37. Accepted, not yet published.  
+Gernot Deinzer &amp; Ulrich Herb (2020). Scheinverlage in der wissenschaftlichen Kommunikation **–** Verbreitung von *Predatory Publishing* und Lösungsansätze. *Zeitschrift für Bibliothekswesen und Bibliographie*, 67(1), 25-37.  
 [DOI:10.3196/186429502067147](http://dx.doi.org/10.3196/186429502067147)  
 Open Access version: <https://zenodo.org/record/3686825>
 
@@ -35,12 +33,10 @@ Ulrich Herb (2019). Steering science through Output Indicators &amp; Data Capita
 [DOI:10.5281/zenodo.3333395](https://doi.org/10.5281/zenodo.3333395)
 
 Ulrich Herb (2019). Altmetrics: Befreiung der Wissenschaft oder Fortsetzung ihrer Vermessung mit anderen Mitteln? In: AQ Austria – Agentur für Qualitätssicherung und Akkreditierung Austria (Hrsg.): Forschung fördern – Rahmenbedingungen gestalten! Beiträge zur 6. AQ Austria Jahrestagung 2018, Wien : Facultas, S. 117-129.   
-(https://zenodo.org/record/4471606)[DOI: 10.5281/zenodo.4471606](https://zenodo.org/record/4471606)
-
-Ulrich Herb (2018). Zucht oder Libido Sciendi? Eine Dystopie der Wissenschaftssteuerung. *Laborjournal*. Sommer 2018. [https://www.laborjournal.de/rubric/essays/essays2018/e18\_08.php](https://www.laborjournal.de/rubric/essays/essays2018/e18_08.php)
+[DOI: 10.5281/zenodo.4471606](https://zenodo.org/record/4471606)
 
 Ulrich Herb (2018). Zwangsehen und Bastarde. Wohin steuert Big Data die Wissenschaft? *Information – Wissenschaft &amp; Praxis*, 69(2-3), 81–88. [DOI:10.1515/iwp-2018-0021](http://doi.org/10.1515/iwp-2018-0021)  
-Open Access unter: <https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/27437>
+Open Access Version: <https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/27437>
 
 Ulrich Herb (2018). Lots of data, lots of hurdles: aggregating usage information from distributed Open Access repositories. *Journal of Science Communication (JCOM),* 17(2).  
 [https://jcom.sissa.it/archive/17/02/JCOM\_1702\_2018\_C01/JCOM\_1702\_2018\_C05](https://jcom.sissa.it/archive/17/02/JCOM_1702_2018_C01/JCOM_1702_2018_C05)
@@ -50,7 +46,7 @@ Ulrich Herb (2018). Open Access and Symbolic Gift Giving. In Joachim Schöpfel &
 Ulrich Herb &amp; Joachim Schöpfel (2018). Open Divide Emerges as Open Access Unfolds. In Joachim Schöpfel &amp; Ulrich Herb (Hrsg.), Open Divide? Critical Studies on Open Access (S. 7-13). Sacramento, USA: Litwin Books. [DOI:10.5281/zenodo.1206390](https://zenodo.org/record/1206390)
 
 Joachim Schöpfel &amp; Ulrich Herb (Hrsg.) (2018). Open Divide? Critical Studies on Open Access. Litwin Books : Sacramento, USA. ISBN: 978-1-63400-029-1.  
-[Inhaltsverzeichnis inkl. Links zu Open Access Versionen der Artikel](http://www.scidecode.com/open-divide-critical-studies-on-open-access/)
+[table of contents incl. links to open access versions of the articles](http://www.scidecode.com/open-divide-critical-studies-on-open-access/)
 
 Ulrich Herb (2018). Viele Daten, hohe Hürden: Eine Bilanz aus dem Projekt Open-Access-Statistik. *Bibliotheksdienst*, 52(3-4), S. 290–302.  
 [DOI:10.1515/bd-2018-0034](http://doi.org/10.1515/bd-2018-0034)
@@ -69,10 +65,10 @@ Ulrich Herb (2017). Open Access zwischen Revolution und Goldesel. Eine Bilanz f�
 Ulrich Herb (2016). Empfehlungen, Stellungnahmen, Deklarationen und Aktivitäten wissenschaftspolitischer Akteure zur Gestaltung des wissenschaftlichen Kommunikationssystems. In P. Weingart &amp; N. Taubert (Hrsg.), *Wissenschaftliches Publizieren. Zwischen Digitalisierung, Leistungsmessung, Ökonomisierung und medialer Beobachtung* (S. 147–178). Berlin, Boston: De Gruyter.   
 [DOI:10.1515/9783110448115-006](http://doi.org/10.1515/9783110448115-006)
 
-Ulrich Herb (2016). Altmetrics zwischen Revolution und Dienstleistung : Eine methodische und konzeptionelle Kritik. In H. Staubmann (Hrsg.), Soziologie in Österreich – Internationale Verflechtungen. Kongresspublikation der Österreichischen Gesellschaft für Soziologie (S. 387–410). Österreichische Gesellschaft für Soziologie ÖGS. <DOI:10.15203/3122-56-7> oder <https://zenodo.org/record/1195644>
+Ulrich Herb (2016). Altmetrics zwischen Revolution und Dienstleistung : Eine methodische und konzeptionelle Kritik. In H. Staubmann (Hrsg.), Soziologie in Österreich – Internationale Verflechtungen. Kongresspublikation der Österreichischen Gesellschaft für Soziologie (S. 387–410). Österreichische Gesellschaft für Soziologie ÖGS. [DOI:10.15203/3122-56-7](https://doi.org/10.15203/3122-56-7) oder <https://zenodo.org/record/1195644>
 
 Ulrich Herb (2016). Impactmessung, Transparenz &amp; Open Science. In: Young Information Scientist, Vol. 1 (2016), S. 59–72.   
-[https://yis.univie.ac.at/index.php/yis/article/view/1420](https://doi.org/10.25365/yis-2016-1-5) oder via Zenodo unter [DOI:10.5281/zenodo.153831 ](http://doi.org/10.5281/zenodo.153831)
+[https://yis.univie.ac.at/index.php/yis/article/view/1420](https://doi.org/10.25365/yis-2016-1-5) oder via Zenodo unter [DOI:10.5281/zenodo.153831](http://doi.org/10.5281/zenodo.153831)
 
 Ulrich Herb (2015). Open Science in der Soziologie: Eine interdisziplinäre Bestandsaufnahme zur offenen Wissenschaft und eine Untersuchung ihrer Verbreitung in der Soziologie. Schriften zur Informationswissenschaft; Bd. 67 \[Zugleich: Diss., Univ. des Saarlandes, 2015\]. Verlag Werner Hülsbusch : Glückstadt. ISBN 978-3-86488-083-4.  
 [DOI:10.5281/zenodo.31234](http://dx.doi.org/10.5281/zenodo.31234)
@@ -109,17 +105,16 @@ Ulrich Herb (2010). Alternative Impact Measures for Open Access Documents ? An e
 [DOI:10.5281/zenodo.1419875](http://doi.org/10.5281/zenodo.1419875)
 
 Ulrich Herb (2010). Sociological implications of scientific publishing: Open access, science, society, democracy, and the digital divide. In: First Monday. Volume 15 (2010), Issue 2.  
-[http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2599/2404](https://firstmonday.org/ojs/index.php/fm/article/view/2599/2404)  
-[DOI:10.5210/fm.v15i2.2599](http://journals.uic.edu/ojs/index.php/fm/article/view/2599)
+[DOI:10.5210/fm.v15i2.2599](https://doi.org/10.5210/fm.v15i2.2599)
 
 Ulrich Herb &amp; Matthias Müller (2009). Nuancen in Grün: Betrieb eines institutionellen und disziplinären Repositoriums – Erfahrungen und Entwicklungen an der Saarländischen Universitäts- und Landesbibliothek. In: GMS Medizin – Bibliothek – Information. Zeitschrift der Arbeitsgemeinschaft für medizinisches Bibliothekswesen. Volume 9 (2009), Issue 1.  <http://www.egms.de/de/journals/mbi/2009-9/mbi000135.shtml>  
-[DOI:10.3205/mbi000135](<DOI: 10.3205/mbi000135>)
+[DOI:10.3205/mbi000135](https://doi.org/10.3205/mbi000135)
 
 Ulrich Herb (2009). Open Access revisited: Wissenschaftsaltruismus oder alter Wein in neuen Schläuchen? In: Kakanien Revisited, März 2009.  
 <http://www.kakanien.ac.at/beitr/theorie/UHerb1.pdf>
 
 Ulrich Herb (2008). Open Access – A Panacea? Science, Society, Democracy, Digital Divide. In: Social Science Research Network SSRN, Economics of Networks Series, 04.11.2008  
-[http://ssrn.com/abstract=1294475 ](http://ssrn.com/abstract=1294475)
+[http://ssrn.com/abstract=1294475](http://ssrn.com/abstract=1294475)
 
 Ulrich Herb &amp; Matthias Müller (2008). The long and winding road: institutional and disciplinary repository at Saarland University and State Library. In: GreyNet. Volume 4 (2008), Issue 2. Reprint aus: OCLC Systems and Services. Volume 24 (2008), Issue 1.  
 <http://scidok.sulb.uni-saarland.de/volltexte/2008/1445/>
@@ -323,6 +318,9 @@ Ulrich Herb (2019): Überwachungskapitalismus und Wissenschaftssteuerung. In: te
 
 Ulrich Herb (2018). Open-access plan fixes some problems, but others remain. In: Research Europe, 06.09.2018  
 <https://www.researchresearch.com/news/article/?articleId=1377045>
+
+Ulrich Herb (2018). Zucht oder Libido Sciendi? Eine Dystopie der Wissenschaftssteuerung. Laborjournal. Sommer 2018
+<https://www.laborjournal.de/rubric/essays/essays2018/e18_08.php>
 
 Ulrich Herb (2018). Rettet der Plan S den Open Access? In: telepolis, 04.09.2018.  
 <https://www.heise.de/tp/features/Rettet-der-Plan-S-den-Open-Access-4154033.html>
