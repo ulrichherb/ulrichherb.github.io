@@ -19,8 +19,8 @@ Electronic publishing, science communication & science infrastructure, scientifi
 
 Since 2001 working for the [Saarland University and State Library](https://www.sulb.uni-saarland.de) as project manager and Open Access expert and since 2011 freelancing for [scidecode science consulting](https://scidecode.com). For a more detailed CV please visit my [LinkedIn](https://de.linkedin.com/in/ulrichherb) or [ORCID profile](https://orcid.org/0000-0002-3500-3119).
 
-# Projects
-## University projects
+## Projects
+### University projects
 
 Since 2001 project manager of a number of third-party funded projects (mainly funded by the German Research Foundation DFG) at the Saarland University and State Library (SULB), among others:
 
@@ -33,7 +33,7 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 - [Open Access Publication Costs](https://gepris.dfg.de/gepris/projekt/491059503), funded by the DFG
 - [Summa cum Fraude](https://gepris.dfg.de/gepris/projekt/430681129), funded by the DFG
 
-## Consulting projects for [scidecode](https://scidecode.com)
+### Consulting projects for [scidecode](https://scidecode.com)
 - contract research in the project [visOA: Making Open Access publications visible in the holdings of a library](https://visoa.leibniz-inm.de/), funded by the [Federal Ministry of Education and Research](https://www.bmbf.de/), methods: literature study, qualitative interviews and two online surveys
 - various expert papers and audit studies on scientific publications and research data for [OUROUK Conseil](https://www.ourouk.fr/)
 - consulting activities in various [Inscico](http://www.inscico.eu/) projects 
@@ -42,7 +42,7 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 - contract study on the visibility of the Yearbook of Phraseology, commissioned by the [European Society of Phraseology (EUROPHRAS)](http://www.europhras.org/de/)
 - revision of the website [Informationsplattform Open Access](https://open-access.net/), commissioned by the [Communication, Information, Media Centre (KIM, Konstanz)](https://www.kim.uni-konstanz.de/en/).
 
-## Other project-like activities
+### Other project-like activities
 - Fellow of the [innoSci Future Lab](https://innosci.de/programme/innosci-future-lab/) of the [German Stifterverband](https://www.stifterverband.org/ausschreibungen)
 - Fellow of the [Road2Openness Programme](https://innosci.de/programme/road2openness/) of the German Stifterverband
 - a wide range of workshops on scientific communication, e.g. strategies for scientific publishing and social media in science
