@@ -6,13 +6,13 @@ layout: home
 ---
 # Publications
 
-[Scientific publications](-Scientific-publications)
+[Scientific publications](##scientific-publications)
 
-[Reports and Expert papers](-Reports-and-Expert-papers)
+[Reports and Expert papers](##reports-and-expert-papers)
 
-[Data](-Data)
+[Data](##data)
 
-[Journalistic publications](-Journalistic-publications)
+[Journalistic publications](##journalistic-publications)
 
 
 ## Scientific publications
