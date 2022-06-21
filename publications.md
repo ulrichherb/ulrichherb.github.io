@@ -7,13 +7,13 @@ layout: home
 
 # Publications
 
-[Scientific publications](#Scientific publications)
+[Scientific publications](##Scientific-publications)
 
-[Reports & Expert papers](#Reports & Experts papers)
+[Reports & Expert papers](##Reports-and-Experts papers)
 
-[Data](#Data)
+[Data](##Data)
 
-[Journalistic publications](#Journalistic publications)
+[Journalistic publications](##Journalistic-publications)
 
 
 ## Scientific publications
@@ -173,7 +173,7 @@ Ulrich Herb (2005). Der disziplinäre Volltextserver PsyDok am Sondersammelgebie
 Ulrich Herb (2002). Wege zur psychologischen Fachinformation – Eine Bilanz aus der Virtuellen Fachbibliothek Psychologie. In: Bibliotheksdienst, 36 (2002) , 11, 1511-1531  
 <https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/23723>
 
-## Reports & Expert papers
+## Reports and Expert papers
 
 Wagner, Nick. (2021). Die Öffnung der Wissenschaft – Werkheft zur Gestaltung der Transformation. With the participation of Marte Kessler and Christin Skiera, with contributions by Verena Heise, Ulrich Herb, Magdalena Wailzer, Nils Hachmeister. Zenodo.   
 [DOI:10.5281/zenodo.5674672](https://doi.org/10.5281/zenodo.5674672)
