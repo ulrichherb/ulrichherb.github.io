@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Publications
-
 [Scientific publications](-Scientific-publications)
 
 [Reports and Expert papers](-Reports-and-Expert-papers)
