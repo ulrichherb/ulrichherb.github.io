@@ -23,13 +23,14 @@ Since 2001 working for the [Saarland University and State Library](https://www.s
 
 Since 2001 project manager of a number of third-party funded projects (mainly funded by the German Research Foundation DFG) at the Saarland University and State Library (SULB), among others:
 
-- Virtual Library Psychology
-- Digital Psychology Information
-- OPUS 4 (Re-Design of a E-Publishing Software)
-- Open-Access-Statistics
+- [Virtual Library Psychology](https://web.archive.org/web/20020601064213/http://fips.sulb.uni-saarland.de/), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
+- [Digital Psychology Information](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/23727), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
+- [OPUS 4 (Re-Design of a E-Publishing Software)](https://gepris.dfg.de/gepris/projekt/66884780), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
+- [Open-Access-Statistics](https://dini.de/dienste-projekte/projekte/oa-statistik/), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
 - JISC Usage Statistics Project, fundedy by the Joint Information Systems Committee (UK)
-- Open Access Publishing
-- Summa cum Fraude
+- [Open Access Publishing](https://gepris.dfg.de/gepris/projekt/413932926), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
+- [Open Access Publication Costs](https://gepris.dfg.de/gepris/projekt/491059503), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
+- [Summa cum Fraude](https://gepris.dfg.de/gepris/projekt/430681129), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
 
 ## Memberships in Committees and Associations
 
