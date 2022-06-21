@@ -23,7 +23,7 @@ Since 2001 working for the [Saarland University and State Library](https://www.s
 
 Since 2001 project manager of a number of third-party funded projects (mainly funded by the German Research Foundation DFG) at the Saarland University and State Library (SULB), among others:
 
-- [Virtual Library Psychology](https://web.archive.org/web/20020601064213/http://fips.sulb.uni-saarland.de/), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
+- [Virtual Library Psychology](https://web.archive.org/web/20020601064213/http://fips.sulb.uni-saarland.de/), funded by the German Research Foundation ([Deutsche Forschungsgemeinschaft, DFG](https://dfg.de))
 - [Digital Psychology Information](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/23727), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
 - [OPUS 4 (Re-Design of a E-Publishing Software)](https://gepris.dfg.de/gepris/projekt/66884780), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
 - [Open-Access-Statistics](https://dini.de/dienste-projekte/projekte/oa-statistik/), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
