@@ -8,8 +8,11 @@ layout: home
 #Publications
 
 [Scientific publications](##Scientific publications)
+
 [Reports & Expert papers](##Reports & Experts papers)
+
 [Data](##Data)
+
 [Journalistic publications](##Journalistic publications)
 
 
