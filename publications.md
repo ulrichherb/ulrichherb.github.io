@@ -5,15 +5,15 @@
 layout: home
 ---
 
-#Publications
+# Publications
 
-[Scientific publications](##S cientific publications)
+[Scientific publications](#Scientific publications)
 
-[Reports & Expert papers](## Reports & Experts papers)
+[Reports & Expert papers](#Reports & Experts papers)
 
-[Data](## Data)
+[Data](#Data)
 
-[Journalistic publications](##J ournalistic publications)
+[Journalistic publications](#Journalistic publications)
 
 
 ## Scientific publications
