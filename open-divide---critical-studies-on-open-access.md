@@ -1,5 +1,5 @@
 
-![Open Divide - Critical Studies on Open Access](/assets/images/open-divide-critical-studies-on-open-access.png)] 
+![Open Divide - Critical Studies on Open Access](/assets/images/open-divide-critical-studies-on-open-access.png)
 
 In April 2018 the anthology *Open Divide: Critical Studies on Open Access* was published. Here you find the table of contents of the book, including links to articles available in Open Access. The publisher, Rory Litwin of Litwin Books, allowed the authors to retain the rights of their contributions. Each of the articles in the book, but not the book as a whole, can be made available under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License, <https://creativecommons.org/licenses/by-nc/4.0/>. I would also like to thank Julian Wichert, who designed the graphic in this post.
 
