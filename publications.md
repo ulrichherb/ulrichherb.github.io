@@ -7,16 +7,16 @@ layout: home
 
 #Publications
 
-[Scientific publications](##Scientific publications)
+[Scientific publications](##S cientific publications)
 
-[Reports & Expert papers](##Reports & Experts papers)
+[Reports & Expert papers](## Reports & Experts papers)
 
-[Data](##Data)
+[Data](## Data)
 
-[Journalistic publications](##Journalistic publications)
+[Journalistic publications](##J ournalistic publications)
 
 
-##Scientific publications
+## Scientific publications
 
 Ulrich Herb (2021): Review „Publikationsberatung an Universitäten. Ein Praxisleitfaden zum Aufbau publikationsunterstützender Services“ von Karin Lackner, Lisa Schilhan, &amp; Christian Kaier (Eds.). *Information. Wissenschaft &amp; Praxis*, 72(4), 246–247.  
 [DOI:10.1515/iwp-2021-2162](10.1515/iwp-2021-2162)  
@@ -36,7 +36,7 @@ Ulrich Herb (2019). Steering science through Output Indicators &amp; Data Capita
 [DOI:10.5281/zenodo.3333395](https://doi.org/10.5281/zenodo.3333395)
 
 Ulrich Herb (2019). Altmetrics: Befreiung der Wissenschaft oder Fortsetzung ihrer Vermessung mit anderen Mitteln? In: AQ Austria – Agentur für Qualitätssicherung und Akkreditierung Austria (Hrsg.): Forschung fördern – Rahmenbedingungen gestalten! Beiträge zur 6. AQ Austria Jahrestagung 2018, Wien : Facultas, S. 117-129.   
-[](https://zenodo.org/record/4471606)[DOI: 10.5281/zenodo.4471606](https://zenodo.org/record/4471606)
+(https://zenodo.org/record/4471606)[DOI: 10.5281/zenodo.4471606](https://zenodo.org/record/4471606)
 
 Ulrich Herb (2018). Zucht oder Libido Sciendi? Eine Dystopie der Wissenschaftssteuerung. *Laborjournal*. Sommer 2018. [https://www.laborjournal.de/rubric/essays/essays2018/e18\_08.php](https://www.laborjournal.de/rubric/essays/essays2018/e18_08.php)
 
@@ -113,8 +113,7 @@ Ulrich Herb (2010). Sociological implications of scientific publishing: Open acc
 [http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2599/2404](https://firstmonday.org/ojs/index.php/fm/article/view/2599/2404)  
 [DOI:10.5210/fm.v15i2.2599](http://journals.uic.edu/ojs/index.php/fm/article/view/2599)
 
-Ulrich Herb &amp; Matthias Müller (2009). Nuancen in Grün: Betrieb eines institutionellen und disziplinären Repositoriums – Erfahrungen und Entwicklungen an der Saarländischen Universitäts- und Landesbibliothek. In: GMS Medizin – Bibliothek – Information. Zeitschrift der Arbeitsgemeinschaft für medizinisches Bibliothekswesen. Volume 9 (2009), Issue 1.  
-<http://www.egms.de/de/journals/mbi/2009-9/mbi000135.shtml>  
+Ulrich Herb &amp; Matthias Müller (2009). Nuancen in Grün: Betrieb eines institutionellen und disziplinären Repositoriums – Erfahrungen und Entwicklungen an der Saarländischen Universitäts- und Landesbibliothek. In: GMS Medizin – Bibliothek – Information. Zeitschrift der Arbeitsgemeinschaft für medizinisches Bibliothekswesen. Volume 9 (2009), Issue 1.  <http://www.egms.de/de/journals/mbi/2009-9/mbi000135.shtml>  
 [DOI:10.3205/mbi000135](<DOI: 10.3205/mbi000135>)
 
 Ulrich Herb (2009). Open Access revisited: Wissenschaftsaltruismus oder alter Wein in neuen Schläuchen? In: Kakanien Revisited, März 2009.  
@@ -174,7 +173,7 @@ Ulrich Herb (2005). Der disziplinäre Volltextserver PsyDok am Sondersammelgebie
 Ulrich Herb (2002). Wege zur psychologischen Fachinformation – Eine Bilanz aus der Virtuellen Fachbibliothek Psychologie. In: Bibliotheksdienst, 36 (2002) , 11, 1511-1531  
 <https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/23723>
 
-##Reports & Expert papers
+## Reports & Expert papers
 
 Wagner, Nick. (2021). Die Öffnung der Wissenschaft – Werkheft zur Gestaltung der Transformation. With the participation of Marte Kessler and Christin Skiera, with contributions by Verena Heise, Ulrich Herb, Magdalena Wailzer, Nils Hachmeister. Zenodo.   
 [DOI:10.5281/zenodo.5674672](https://doi.org/10.5281/zenodo.5674672)
@@ -212,7 +211,7 @@ Ulrich Herb (2012). Im Auge des Betrachters: Wie will man die Qualität wissensc
 Steffen Albrecht, Gabriele Beger, Christoph Bruch, Oliver Castendyk, Timo Ehmann, Timo, Daniel Dietrich, Jeannette Dietrich; Tobias Ernst, Arnd Haller, Natali Helberger, Ulrich Herb, Stefan Herwig, Jeanette Hofmann, Holger Kienle, Paul Klimpel, Ulrich Klotz, Kaya Köklü, Dirk Krischenowski, Till Kreutzer, Sascha Lazimbat, Michael Littger, Martin G. Löhe, Robin Meyer-Lucht, Ramak Molavi, Jan Mönikes, Philipp Müller, Georg Nolte, Philipp Otto, Mani Pirouz, Tomas Praus, Thomas Ramge, Mario Rehse, Mathias Schindler, Gudrun Schweppe, Max Senges, Cornelia Sollfrank, Matthias Spielkamp, Christian von Borries, John Weitzmann, Karsten Wenzlaff, Dorothee Werner, Ole Wintermann, Hergen Wöbken (2011). Regelungssysteme für informationelle Güter. Urheberrecht in der digitalen Zukunft (Eine Publikation des Internet &amp; Gesellschaft Co:llaboratory). Berlin, 2011: Internet &amp; Gesellschaft Co:llaboratory.  
 [http://dl.collaboratory.de/reports/Ini3\_Urheberrecht.pdf](http://dl.collaboratory.de/reports/Ini3_Urheberrecht.pdf)
 
-Ulrich Herb (2010). Publizieren wissenschaftlicher Arbeiten. Manual zum gleichnamigen Workshop des Graduiertenprogramms der Universität des Saarlandes (GradUS), 2010.  
+Ulrich Herb (2010). Publizieren wissenschaftlicher Arbeiten. Manual zum gleichnamigen Workshop des Graduiertenprogramms der Universität des Saarlandes (GradUS), 2010. 
 [doi:10.22028/D291-23716 ](https://dx.doi.org/10.22028/D291-23716)
 
 Björn Mittelsdorf &amp; Ulrich Herb (2009). Access Data Mining: A new foundation for Added-value services in full text repositories  
@@ -229,7 +228,7 @@ Ulrich Herb (2007). Open Access in den Sozialwissenschaften. In: Open Access : C
 Ulrich Herb (2005). Open Access. Freier Zugang zu wissenschaftlichen Informationen. In: punktum. 2005, 4, S. 20  
 <https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/23728>
 
-##Data
+## Data
 
 Ulrich Herb (2019): Leitfaden für qualitative Interviews zur qualitativen Wahrnehmung wissenschaftlicher Publikationen. Zenodo.  
 [DOI:10.5281/zenodo.3482860](http://doi.org/10.5281/zenodo.3482860)
@@ -303,7 +302,7 @@ Ulrich Herb (2014). Distribution of peer-reviewed and non-peer-reviewed journals
 Ulrich Herb (2014). Prevalence of Creative Commons licenses in the Directory of Open Access Journals by discipline, author fees, number of journals per country and publisher. Zenodo.  
 [DOI:10.5281/zenodo.11616](http://dx.doi.org/10.5281/zenodo.11616)
 
-##Journalistic publications
+## Journalistic publications
 
 Ulrich Herb (2020). Bildmanipulation als Grand Challenge für die Wissenschaft. Interview mit Thorsten Beck. In telepolis, 03.12.2020  
 <https://www.heise.de/tp/features/Bildmanipulation-als-Grand-Challenge-fuer-die-Wissenschaft-4961240.html>
