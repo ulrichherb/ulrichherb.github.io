@@ -4,6 +4,7 @@
 
 layout: home
 ---
+# Publications
 
 [Scientific publications](-Scientific-publications)
 
