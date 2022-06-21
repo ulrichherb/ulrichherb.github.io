@@ -19,6 +19,7 @@ Transformative Verträge und DEAL stellen das stärkste verbindende Element zwis
 *Beginn: Update 29.05.2022*
 
 Mein Kollege [Pablo de Castro](https://twitter.com/pcastromartin) (University of Strathclyde, Glasgow) fasste weitere kritische Eigenschaften von Transformationsverträgen und Read-And-Publish-Abmachungen (hier RnP) in einer [Präsentation](https://twitter.com/pcastromartin/status/1530244458331136000/photo/1) treffend zusammen. Besonders hervorheben möchte ich seine Feststellung, dass Open Access Berater/innen und Beauftragte durch Read and Publish und Transformation zu Buchhalterinnen und Buchhaltern mutieren - was zu Lasten Open Access förderlicherer Aktivitäten wir Beratung oder (Infra)strukturbildung geht.
+
 ![Pablo de Castro Read and Publish](/assets/images/Pablo_de_Castro_Read_and-Publish.jpg){: style="float: right"}
  
 *Ende: Update 29.05.2022* 
