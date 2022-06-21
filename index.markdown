@@ -25,16 +25,16 @@ Since 2001 working for the [Saarland University and State Library](https://www.s
 Since 2001 project manager of a number of third-party funded projects (mainly funded by the German Research Foundation DFG) at the Saarland University and State Library (SULB), among others:
 
 - [Virtual Library Psychology](https://web.archive.org/web/20020601064213/http://fips.sulb.uni-saarland.de/), funded by the German Research Foundation ([Deutsche Forschungsgemeinschaft, DFG](https://dfg.de))
-- [Digital Psychology Information](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/23727), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
-- [OPUS 4 (Re-Design of a E-Publishing Software)](https://gepris.dfg.de/gepris/projekt/66884780), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
-- [Open-Access-Statistics](https://dini.de/dienste-projekte/projekte/oa-statistik/), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
+- [Digital Psychology Information](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/23727), funded by the DFG
+- [OPUS 4 (Re-Design of a E-Publishing Software)](https://gepris.dfg.de/gepris/projekt/66884780), funded by the DFG
+- [Open-Access-Statistics](https://dini.de/dienste-projekte/projekte/oa-statistik/), funded by the DFG
 - JISC Usage Statistics Project, fundedy by the Joint Information Systems Committee (UK)
-- [Open Access Publishing](https://gepris.dfg.de/gepris/projekt/413932926), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
-- [Open Access Publication Costs](https://gepris.dfg.de/gepris/projekt/491059503), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
-- [Summa cum Fraude](https://gepris.dfg.de/gepris/projekt/430681129), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
+- [Open Access Publishing](https://gepris.dfg.de/gepris/projekt/413932926), funded by the DFG
+- [Open Access Publication Costs](https://gepris.dfg.de/gepris/projekt/491059503), funded by the DFG
+- [Summa cum Fraude](https://gepris.dfg.de/gepris/projekt/430681129), funded by the DFG
 
 ## Consulting projects for [scidecode](https://scidecode.com)
-- contract research in the project [visOA: Making Open Access publications visible in the holdings of a library](https://visoa.leibniz-inm.de/), funded by the [Federal Ministry of Education and Research](https://www.bmbf.de/). Methods: literature study, qualitative interviews and two online surveys.
+- contract research in the project [visOA: Making Open Access publications visible in the holdings of a library](https://visoa.leibniz-inm.de/), funded by the [Federal Ministry of Education and Research](https://www.bmbf.de/), methods: literature study, qualitative interviews and two online surveys
 - various expert papers and audit studies on scientific publications and research data for [OUROUK Conseil](https://www.ourouk.fr/)
 - consulting activities in various [Inscico](http://www.inscico.eu/) projects 
 - bibliometric study on Open Access publications for [Saarland University of Applied Sciences](https://www.htwsaar.de/)
@@ -45,21 +45,20 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 ## Other project-like activities
 - Fellow of the [innoSci Future Lab](https://innosci.de/programme/innosci-future-lab/) of the [German Stifterverband](https://www.stifterverband.org/ausschreibungen)
 - Fellow of the [Road2Openness Programme](https://innosci.de/programme/road2openness/) of the German Stifterverband
+- a wide range of workshops on scientific communication, e.g. strategies for scientific publishing and social media in science
 
 ## Memberships in Committees and Associations
 
 ### Current Memberships in Committees and Associations
 
-- Working Group Electronic Publishing of the German Initiative for Networked Information (Deutschen Initiative für Netzwerkinformation DINI e.V.)
-- Section “Cultural Theory and Cultural Research” of the Austrian Society for Sociology ÖGS
-- Association of Higher Education of Information Science in the German-speaking countries (board member since 03/2017)
-- Working Group Scientific Publication System of the Alliance of Science Organizations in German, nominated by the German Rectors’ Conference (Hochschulrektorenkonferenz, HRK)
-- Advisory Board of the research project “Open Access in Vocational Education and Training Research” of the Federal Institute for Vocational Education and Training BIBB.
-- Fellow of the innoSci Future Lab of the German Stifterverband
+- [Working Group Electronic Publishing](https://dini.de/ag/e-pub/) of the [German Initiative for Networked Information (Deutschen Initiative für Netzwerkinformation DINI e.V.)](https://dini.de/)
+- Section [“Cultural Theory and Cultural Research” of the Austrian Society for Sociology ÖGS](http://www.iwp.jku.at/kulturtheorie/)
+- [Association of Higher Education of Information Science](http://www.informationswissenschaft.org/) in the German-speaking countries (board member since 03/2017)
+- [Working Group Scientific Publication System](https://www.allianzinitiative.de/fields-of-action-projects/scientific-publication-system/?lang=en) of the [Alliance of Science Organizations in German](https://www.allianzinitiative.de/?lang=en), nominated by the [German Rectors’ Conference (Hochschulrektorenkonferenz, HRK)](https://www.hrk.de/home/)
+- Advisory Board of the research project [“Open Access in Vocational Education and Training Research”](https://www.bibb.de/de/35836.php) of the [Federal Institute for Vocational Education and Training BIBB.]((https://www.bibb.de/en/)
 
 ### Former Memberships in Committees and Associations
 
-- Open Science Working Group of the Open Knowledge Foundation OKFN
 - Sounding Board “Communicating Open Science” of the Max-Planck-Society (2013)
 - Open Access Working Group of the Leibniz Association
 - Expert group [“Copyright for the Information Society” of the Google Collaboratory](https://www.collaboratory.de/w/Initiative_Urheberrecht_f%C3%BCr_die_Informationsgesellschaft)
@@ -75,7 +74,7 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 
 ## Teaching assignments
 
-- Teaching assignment at the Hochschule der Medien (HdM) in Stuttgart 2012, 2013, 2016, 20217
-- Annual guest lectures at the University of Applied Sciences Chur (CH) at the Department of Information Science since 2015
-- Teaching assignment at Saarland University in the winter semester 2011/12 and summer semester 2012
-- Teaching assignment at the University of Applied Sciences Graubünden, Chur (Switzerland) at the Department of Information Science in 2011
+- Teaching assignment at the [Hochschule der Medien (HdM)](https://www.hdm-stuttgart.de/en) in Stuttgart 2012, 2013, 2016, 20217
+- Annual guest lectures at the [University of Applied Sciences of the Grisons (Graubünden, CH)](https://www.fhgr.ch/en/) at the [Department of Information Science](https://www.fhgr.ch/en/uas-grisons/angewandte-zukunftstechnologien/swiss-institute-for-information-science-sii/) since 2015
+- Teaching assignment at [Saarland University](https://uni-saarland.de) in the winter semester 2011/12 and summer semester 2012
+- Teaching assignment at the University of Applied Sciences of the Grisons (Graubünden, CH) at the Department of Information Science in 2011
