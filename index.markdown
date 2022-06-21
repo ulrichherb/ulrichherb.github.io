@@ -69,7 +69,7 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 - Ongoing publications of a scientific and journalistic character and lectures at scientific congresses and conferences.
 - Member of the editorial boards of the journals Information, Wissenschaft & Praxis und Young Information Scientist
 - Reviewer for various scientific journals, e.g. Scientometrics,  Information – Open Access Information Science Journal, First Monday, Zeitschrift für Hochschulentwicklung, Mitteilungen der Vereinigung Österreichischer Bibliothekarinnen & Bibliothekare, Technikfolgenabschätzung – Theorie und Praxis (TATuP), Young Information Scientist and Information, Wissenschaft & Praxis.
-- Reviewer of applications for funding from the German Research Foundation (Deutsche Forschungsgemeinschaft DFG), the Leibniz Association (Leibniz Competition), swissuniversities and the Tyrolean Science Funding Programme.
+- Reviewer of applications for funding from the German Research Foundation (Deutsche Forschungsgemeinschaft DFG), the [Leibniz Association](https://www.leibniz-gemeinschaft.de/en/) (Leibniz Competition), [swissuniversities](https://www.swissuniversities.ch/) and the [Tyrolean Science Funding Programme](https://www.tirol.gv.at/arbeit-wirtschaft/wirtschaft-und-arbeit/foerderungen/wissenschaftsfoerderung/die-tiroler-wissenschaftsfoerderung-twf/).
 
 
 ## Teaching assignments
