@@ -42,6 +42,10 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 - contract study on the visibility of the Yearbook of Phraseology, commissioned by the [European Society of Phraseology (EUROPHRAS)](http://www.europhras.org/de/)
 - revision of the website [Informationsplattform Open Access](https://open-access.net/), commissioned by the [Communication, Information, Media Centre (KIM, Konstanz)](https://www.kim.uni-konstanz.de/en/).
 
+## Other project-like activities
+- Fellow of the [innoSci Future Lab](https://innosci.de/programme/innosci-future-lab/) of the [German Stifterverband](https://www.stifterverband.org/ausschreibungen)
+- Fellow of the [Road2Openness Programme](https://innosci.de/programme/road2openness/) of the German Stifterverband
+
 ## Memberships in Committees and Associations
 
 ### Current Memberships in Committees and Associations
