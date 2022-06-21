@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Other content
+# Misc.
 
 [Open Divide - Critical Studies on Open Access](#open-divide---critical-studies-on-open-access)
 
