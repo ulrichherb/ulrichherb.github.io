@@ -11,4 +11,4 @@ layout: home
 
 
 ## Open Divide - Critical Studies on Open Access
-[Here you can find Open Access](/open-divide---critical-studies-on-open-access.md) versions to articles from the anthology I co-edited with Joachim Schöpfel in 2018.
+[Here you can find Open Access versions](/open-divide---critical-studies-on-open-access.md) to articles from the anthology *Open Divide - Critical Studies on Open Access* I co-edited with Joachim Schöpfel in 2018.
