@@ -19,7 +19,8 @@ Electronic publishing, science communication & science infrastructure, scientifi
 
 Since 2001 working for the [Saarland University and State Library](https://www.sulb.uni-saarland.de) as project manager and Open Access expert and since 2011 freelancing for [scidecode science consulting](https://scidecode.com). For a more detailed CV please visit my [LinkedIn](https://de.linkedin.com/in/ulrichherb) or [ORCID profile](https://orcid.org/0000-0002-3500-3119).
 
-## Projects
+# Projects
+## University projects
 
 Since 2001 project manager of a number of third-party funded projects (mainly funded by the German Research Foundation DFG) at the Saarland University and State Library (SULB), among others:
 
@@ -31,6 +32,15 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 - [Open Access Publishing](https://gepris.dfg.de/gepris/projekt/413932926), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
 - [Open Access Publication Costs](https://gepris.dfg.de/gepris/projekt/491059503), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
 - [Summa cum Fraude](https://gepris.dfg.de/gepris/projekt/430681129), funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
+
+## Consulting projects for [scidecode](https://scidecode.com)
+- contract research in the project [visOA: Making Open Access publications visible in the holdings of a library](https://visoa.leibniz-inm.de/), funded by the [Federal Ministry of Education and Research](https://www.bmbf.de/). Methods: literature study, qualitative interviews and two online surveys.
+- various expert papers and audit studies on scientific publications and research data for [OUROUK Conseil](https://www.ourouk.fr/)
+- consulting activities in various [Inscico](http://www.inscico.eu/) projects 
+- bibliometric study on Open Access publications for [Saarland University of Applied Sciences](https://www.htwsaar.de/)
+- synopsis of recommendations, statements, declarations and activities of science policy actors on shaping the scholarly communication system, commissioned by the [Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)](https://www.bbaw.de/en/)
+- contract study on the visibility of the Yearbook of Phraseology, commissioned by the [European Society of Phraseology (EUROPHRAS)](http://www.europhras.org/de/)
+- revision of the website [Informationsplattform Open Access](https://open-access.net/), commissioned by the [Communication, Information, Media Centre (KIM, Konstanz)](https://www.kim.uni-konstanz.de/en/).
 
 ## Memberships in Committees and Associations
 
@@ -48,7 +58,7 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 - Open Science Working Group of the Open Knowledge Foundation OKFN
 - Sounding Board “Communicating Open Science” of the Max-Planck-Society (2013)
 - Open Access Working Group of the Leibniz Association
-- Expert group “Copyright for the Information Society” of the Google Collaboratory
+- Expert group [“Copyright for the Information Society” of the Google Collaboratory](https://www.collaboratory.de/w/Initiative_Urheberrecht_f%C3%BCr_die_Informationsgesellschaft)
 - Society for Science and Technology Research /Gesellschaft für Wissenschafts- und Technikforschung e.V. (GWTF)
 
 ## Publications, Reviewer activities, Memberships in Editorial Boards
