@@ -52,7 +52,7 @@ Since 2001 project manager of a number of third-party funded projects (mainly fu
 ### Current Memberships in Committees and Associations
 
 - [Working Group Electronic Publishing](https://dini.de/ag/e-pub/) of the [German Initiative for Networked Information (Deutschen Initiative für Netzwerkinformation DINI e.V.)](https://dini.de/)
-- Section [“Cultural Theory and Cultural Research” of the Austrian Society for Sociology ÖGS](http://www.iwp.jku.at/kulturtheorie/)
+- Section [“Cultural Theory and Cultural Research” of the Austrian Society for Sociology ÖGS](http://www.kulturinstitut.jku.at/Sektion_Kulturtheorie/)
 - [Association of Higher Education of Information Science](http://www.informationswissenschaft.org/) in the German-speaking countries (board member since 03/2017)
 - [Working Group Scientific Publication System](https://www.allianzinitiative.de/fields-of-action-projects/scientific-publication-system/?lang=en) of the [Alliance of Science Organizations in German](https://www.allianzinitiative.de/?lang=en), nominated by the [German Rectors’ Conference (Hochschulrektorenkonferenz, HRK)](https://www.hrk.de/home/)
 - Advisory Board of the research project [“Open Access in Vocational Education and Training Research”](https://www.bibb.de/de/35836.php) of the [Federal Institute for Vocational Education and Training BIBB.]((https://www.bibb.de/en/)
